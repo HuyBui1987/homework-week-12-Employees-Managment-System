@@ -1,0 +1,30 @@
+{
+  "name": "Homework12-Employees-Managment-System",
+  "version": "1.0.0",
+  "description": "Developement an app that bring a solution for managing a company's employees using node, inquirer, and MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuyBui1987/homework-week-12-Employees-Managment-System"
+  },
+  "keywords": [
+    "inquier",
+    "sql"
+  ],
+  "author": "Xuan Huy Bui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HuyBui1987/homework-week-12-Employees-Managment-System/issues"
+  },
+  "homepage": "https://github.com/HuyBui1987/homework-week-12-Employees-Managment-System#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {}
+}
